@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[<img src="https://cdn.ipfu.org/git/assets/gif/shell-ansible-experiments.gif" width="auto;"/><br /><sub>View more</sub>](https://github.com/stationgroup)<br />
+
+
 <!--
 **reelsense/reelsense** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
