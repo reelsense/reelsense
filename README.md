@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![](https://cdn.ipfu.org/git/assets/gif/shell-ansible-experiments.gif)
 [<img src="https://cdn.ipfu.org/git/assets/gif/shell-ansible-experiments.gif" width="auto;"/><br /><sub>View more</sub>](https://github.com/stationgroup)<br />
 
 
